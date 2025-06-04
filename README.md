@@ -1,16 +1,35 @@
-## Hi there 👋
+### Se apresentem aqui
+Hello World
+WOW
+---
 
-<!--
-**lucs-max/lucs-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+---
 
-Here are some ideas to get you started:
+Estudo na CodeMinds e estou aprendendo jogos com JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias que estou usando
+---
+JavaScript
+
+#### 🎮 Criação de Jogos
+<div style="display: inline_block"><br/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div><br/>
+
+---
+
+📊 Stars
+---
+Github Starts
+lucs-max
+
+
+---
+
+O único momento em que mantenho meus pés no chão é para pegar impulso e alcançar as nuvens!
+Apaixonada por ciências e tecnologia.
+
+---
