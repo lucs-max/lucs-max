@@ -25,7 +25,7 @@ JavaScript
 ---
 Github Starts
 lucs-max
-
+![lucs-max](https://github-readme-stats.vercel.app/api?username=lucs-max&show_icons=true&theme=radical)
 
 ---
 
